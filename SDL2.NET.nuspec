@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Sepandi.SDL2.NET</id>
+        <version>2.0.0</version>
+        <title>SDL2.NET</title>
+        <authors>Sepandi</authors>
+        <owners></owners>
+        <description>SDL2 binding for C# with MacOS Universal and Windows 64bit shared Libraries</description>
+        <packageTypes>
+            <packageType name="Library" />
+        </packageTypes>
+    </metadata>
+    <files>
+        <file src="SDL2.dll" target="" />
+        <file src="libSDL2.dylib" target="" />
+    </files>
+</package>

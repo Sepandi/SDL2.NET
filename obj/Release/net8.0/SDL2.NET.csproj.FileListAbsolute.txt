@@ -1,0 +1,11 @@
+/Users/sepano/Developer/SDL2.NET/bin/Release/net8.0/SDL2.NET.deps.json
+/Users/sepano/Developer/SDL2.NET/bin/Release/net8.0/SDL2.NET.dll
+/Users/sepano/Developer/SDL2.NET/bin/Release/net8.0/SDL2.NET.pdb
+/Users/sepano/Developer/SDL2.NET/obj/Release/net8.0/SDL2.NET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sepano/Developer/SDL2.NET/obj/Release/net8.0/SDL2.NET.AssemblyInfoInputs.cache
+/Users/sepano/Developer/SDL2.NET/obj/Release/net8.0/SDL2.NET.AssemblyInfo.cs
+/Users/sepano/Developer/SDL2.NET/obj/Release/net8.0/SDL2.NET.csproj.CoreCompileInputs.cache
+/Users/sepano/Developer/SDL2.NET/obj/Release/net8.0/SDL2.NET.dll
+/Users/sepano/Developer/SDL2.NET/obj/Release/net8.0/refint/SDL2.NET.dll
+/Users/sepano/Developer/SDL2.NET/obj/Release/net8.0/SDL2.NET.pdb
+/Users/sepano/Developer/SDL2.NET/obj/Release/net8.0/ref/SDL2.NET.dll
